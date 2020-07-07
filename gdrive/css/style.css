@@ -5,3 +5,66 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+
+body{
+  color:#eed8d8;
+  font-size: 16px;
+  background-color: #ecf8f8;
+}
+
+ul {
+  display: block;
+  list-style-type: none;
+  color: white;
+ padding: 3em;
+}
+.bg-primary {
+  color: #fff;
+  background-color: #540d6e;
+
+}
+
+span{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+  padding: 1em;
+  color: white;
+ 
+}
+#logo{
+  color: #f7a399;
+}
+.navbar-brand{
+  margin-top:0 ;
+  height: auto;
+}
+
+.row{
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.star{
+  color: black;
+}
+
+.button{
+  -webkit-writing-mode: horizontal-tb;
+    text-rendering: auto;
+    color: -internal-light-dark-color(buttontext, black);
+  
+    text-indent: 0px;
+    text-shadow: none;
+    display: none;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: -internal-light-dark-color(rgb(201, 47, 47), rgb(74, 74, 74));
+   
+    margin: 1em;
+    
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+   
+   
+}
