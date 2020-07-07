@@ -6,31 +6,33 @@ img {
   height: auto;
 }
 
-.jumbotron{
-  background-color: light red;
-}
 
 body{
   color:#eed8d8;
   font-size: 16px;
+  background-color: #ecf8f8;
 }
 
 ul {
   display: block;
   list-style-type: none;
-  color: black;
+  color: white;
  padding: 3em;
 }
 .bg-primary {
   color: #fff;
-  background-color: #b75b3361;
+  background-color: #540d6e;
+
 }
 
 span{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
   padding: 1em;
-  color: black;
+  color: white;
  
+}
+#logo{
+  color: #f7a399;
 }
 .navbar-brand{
   margin-top:0 ;
